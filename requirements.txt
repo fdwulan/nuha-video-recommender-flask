@@ -1,0 +1,9 @@
+Flask
+Sastrawi
+scikit-learn
+nltk
+requests
+swifter
+uvicorn
+asttokens
+regex
