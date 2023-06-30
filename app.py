@@ -5,7 +5,7 @@
 from flask import Flask, request
 
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='public')
 
 #mendapatkan data artikel dari api
 import requests
