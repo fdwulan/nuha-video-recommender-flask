@@ -114,7 +114,7 @@ cosine_sim = linear_kernel(tfidf_matrix, tfidf_matrix)
 # @app.get('/recommend/video')
 @app.route('/video')
 def hello():
-    return 'article recommender sudah siap!'
+    return 'nuha video recommender sudah siap!'
 
 # @app.get('/recommend/video')
 @app.route('/recommend/video')
